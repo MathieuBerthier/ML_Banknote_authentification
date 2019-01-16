@@ -53,8 +53,9 @@ tree_fit.score(x_test, y_test)
 4/ Affichage de la matrice de confusion
 
 Remarque : pas de faux négatifs obtenus
-
+```
 # Confusion matrix
 import sklearn.metrics
 confusion_matrix = sklearn.metrics.confusion_matrix(y_test, predictions)
 print(pd.DataFrame(confusion_matrix))
+```
