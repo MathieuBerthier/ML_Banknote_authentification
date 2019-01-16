@@ -5,14 +5,12 @@
 Nous souhaitons classer un jeu de données contenant des billets de banque authentiques ou faux.
 
 Ce dataset est composé de 5 variables indépendantes distinctes ainsi que d'une cible "vrai/faux".
-
 Les données sont téléchargeables ici : http://archive.ics.uci.edu/ml/datasets/banknote+authentication 
 
 Pour cette classification, un modèle type "decision tree" a été utilisé.
-
 Score obtenu sur l'échantillon de test => 99,27 %
 
-Le code utilisé sera détaillé ci-après.
+Le code sera détaillé ci-après.
 
 ## Description code
 
